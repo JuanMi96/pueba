@@ -20,6 +20,7 @@ public class Prueba {
         while(a<100 ){   
     System.out.println("Hola mundo");
      a=a+1;
+     
     }
     
        
