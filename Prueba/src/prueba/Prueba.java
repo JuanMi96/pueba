@@ -15,12 +15,14 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+  
         
-      int a=0;
-        while(a<100 ){   
+        
+     for (int a=0;a<100;a++){
+        
     System.out.println("Hola mundo");
-     a=a+1;
-     
+     }
+    
     }
     
        
@@ -29,4 +31,4 @@ public class Prueba {
     
         // TODO code application logic here
     }   
-}
+
